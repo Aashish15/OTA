@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <lettuce>
-            <Filename>RR-N-v5.8.4-20170812-lettuce-Official.zip</Filename>
+            <Filename>RR-N-v5.8.5-20171003-lettuce-Final.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/lettuce/RR-N-v5.8.4-20170812-lettuce-Official.zip/download</RomUrl>
+                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/lettuce/RR-N-v5.8.5-20171003-lettuce-Final.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
